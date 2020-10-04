@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pathmedaliveweb/static/css/main.c41a78cb.chunk.css",
+    "main.js": "/pathmedaliveweb/static/js/main.1c123208.chunk.js",
+    "main.js.map": "/pathmedaliveweb/static/js/main.1c123208.chunk.js.map",
+    "runtime-main.js": "/pathmedaliveweb/static/js/runtime-main.8ced7d4c.js",
+    "runtime-main.js.map": "/pathmedaliveweb/static/js/runtime-main.8ced7d4c.js.map",
+    "static/js/2.8cace665.chunk.js": "/pathmedaliveweb/static/js/2.8cace665.chunk.js",
+    "static/js/2.8cace665.chunk.js.map": "/pathmedaliveweb/static/js/2.8cace665.chunk.js.map",
+    "index.html": "/pathmedaliveweb/index.html",
+    "precache-manifest.fba311fe21f9a7ee139a990cc0fbc0e5.js": "/pathmedaliveweb/precache-manifest.fba311fe21f9a7ee139a990cc0fbc0e5.js",
+    "service-worker.js": "/pathmedaliveweb/service-worker.js",
+    "static/css/main.c41a78cb.chunk.css.map": "/pathmedaliveweb/static/css/main.c41a78cb.chunk.css.map",
+    "static/js/2.8cace665.chunk.js.LICENSE.txt": "/pathmedaliveweb/static/js/2.8cace665.chunk.js.LICENSE.txt",
+    "static/media/IndiaFarming.jpg": "/pathmedaliveweb/static/media/IndiaFarming.25bad265.jpg",
+    "static/media/style.css": "/pathmedaliveweb/static/media/cows.261542bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ced7d4c.js",
+    "static/js/2.8cace665.chunk.js",
+    "static/css/main.c41a78cb.chunk.css",
+    "static/js/main.1c123208.chunk.js"
+  ]
+}
